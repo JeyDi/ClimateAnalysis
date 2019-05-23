@@ -1,0 +1,2 @@
+https://www.kaggle.com/noaa/gsod
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
